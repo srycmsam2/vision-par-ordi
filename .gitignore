@@ -1,0 +1,16 @@
+# Données locales et résultats de calibration
+data/
+result/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE / système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
